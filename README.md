@@ -1,1 +1,1 @@
-# demo_sesi_JDBC
+# Projeto para realizar operações CRUD usando API JDBC.
